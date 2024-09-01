@@ -1,1 +1,3 @@
-In this notebook I explain step-by-step how to create Binary Tumor Classification model, with somewhat in-depth explanations to test my knowledge and in case it helps someone who reads this.
+In this repository I create a Binary Tumor Regression model for the Kaggle ISIC 2024 competition, with somewhat in-depth explanations to test my knowledge and in case it helps someone who reads this.
+
+I will be trying different approaches
